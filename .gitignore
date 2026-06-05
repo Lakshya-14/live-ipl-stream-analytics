@@ -1,0 +1,14 @@
+# Python System Caches
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Streaming Data & State Caches
+match_data.csv
+live_stats.json
+live_stats.json.tmp
+match_stream.json
+
+# macOS System Files
+.DS_Store
